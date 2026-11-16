@@ -1,0 +1,15 @@
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/bin/Debug/net10.0/AVLTrees
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/bin/Debug/net10.0/AVLTrees.deps.json
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/bin/Debug/net10.0/AVLTrees.runtimeconfig.json
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/bin/Debug/net10.0/AVLTrees.dll
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/bin/Debug/net10.0/AVLTrees.pdb
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.AssemblyInfoInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.AssemblyInfo.cs
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.csproj.CoreCompileInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.sourcelink.json
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.dll
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/refint/AVLTrees.dll
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.pdb
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/AVLTrees.genruntimeconfig.cache
+/Users/adianlarsen/Desktop/Data Structures/AVL-Trees/AVLTrees/obj/Debug/net10.0/ref/AVLTrees.dll
